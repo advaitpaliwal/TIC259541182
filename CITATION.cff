@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "TIC 259541182.01: a 1.15 Earth-radius planet candidate on a 1.00-day orbit"
+message: "If you use this candidate or data, please cite it as below."
+authors:
+  - family-names: Paliwal
+    given-names: Advait
+    email: advaitpaliwal@gmail.com
+date-released: 2026-10-10
+license: CC-BY-4.0

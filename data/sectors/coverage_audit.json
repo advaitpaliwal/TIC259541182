@@ -1,0 +1,252 @@
+{
+ "tic": 259541182,
+ "ra": 71.7518868542586,
+ "dec": -48.6005824149889,
+ "Tmag": 11.9544,
+ "tess_point_version": null,
+ "footprints": [
+  {
+   "sector": 4,
+   "cam": 3,
+   "ccd": 4,
+   "col": 852.2300355668542,
+   "row": 1361.7892466702042
+  },
+  {
+   "sector": 5,
+   "cam": 3,
+   "ccd": 3,
+   "col": 1404.8408974067427,
+   "row": 1399.8234746152118
+  },
+  {
+   "sector": 31,
+   "cam": 3,
+   "ccd": 4,
+   "col": 624.6687843890636,
+   "row": 1411.8239096841473
+  },
+  {
+   "sector": 32,
+   "cam": 3,
+   "ccd": 3,
+   "col": 1091.8424925901982,
+   "row": 1320.2622649474604
+  },
+  {
+   "sector": 97,
+   "cam": 3,
+   "ccd": 4,
+   "col": 1973.537432138261,
+   "row": 874.7787704668839
+  },
+  {
+   "sector": 98,
+   "cam": 3,
+   "ccd": 3,
+   "col": 839.1613760485609,
+   "row": 1234.5204346393434
+  }
+ ],
+ "footprints_S1_134": [
+  {
+   "sector": 4,
+   "cam": 3,
+   "ccd": 4,
+   "col": 852.2300355668542,
+   "row": 1361.7892466702042
+  },
+  {
+   "sector": 5,
+   "cam": 3,
+   "ccd": 3,
+   "col": 1404.8408974067427,
+   "row": 1399.8234746152118
+  },
+  {
+   "sector": 31,
+   "cam": 3,
+   "ccd": 4,
+   "col": 624.6687843890636,
+   "row": 1411.8239096841473
+  },
+  {
+   "sector": 32,
+   "cam": 3,
+   "ccd": 3,
+   "col": 1091.8424925901982,
+   "row": 1320.2622649474604
+  },
+  {
+   "sector": 97,
+   "cam": 3,
+   "ccd": 4,
+   "col": 1973.537432138261,
+   "row": 874.7787704668839
+  },
+  {
+   "sector": 98,
+   "cam": 3,
+   "ccd": 3,
+   "col": 839.1613760485609,
+   "row": 1234.5204346393434
+  }
+ ],
+ "mast_query": "Observations.query_criteria(target_name='259541182')",
+ "mast": [
+  {
+   "coll": "HLSP",
+   "prov": "GSFC-ELEANOR-LITE",
+   "sector": 4,
+   "exp": 1800.0,
+   "obsid": "115943259"
+  },
+  {
+   "coll": "HLSP",
+   "prov": "QLP",
+   "sector": 4,
+   "exp": 1800.0,
+   "obsid": "58437061"
+  },
+  {
+   "coll": "HLSP",
+   "prov": "T16",
+   "sector": 4,
+   "exp": 1800.0,
+   "obsid": "319901701"
+  },
+  {
+   "coll": "HLSP",
+   "prov": "TARS",
+   "sector": 4,
+   "exp": 1800.0,
+   "obsid": "393773126"
+  },
+  {
+   "coll": "HLSP",
+   "prov": "TASOC",
+   "sector": 4,
+   "exp": 1800.0,
+   "obsid": "89029147"
+  },
+  {
+   "coll": "HLSP",
+   "prov": "TESS-SPOC",
+   "sector": 4,
+   "exp": 1800.0,
+   "obsid": "60291219"
+  },
+  {
+   "coll": "HLSP",
+   "prov": "TGLC",
+   "sector": 4,
+   "exp": 1800.0,
+   "obsid": "137610853"
+  },
+  {
+   "coll": "HLSP",
+   "prov": "GSFC-ELEANOR-LITE",
+   "sector": 5,
+   "exp": 1800.0,
+   "obsid": "124905273"
+  },
+  {
+   "coll": "HLSP",
+   "prov": "QLP",
+   "sector": 5,
+   "exp": 1800.0,
+   "obsid": "57991951"
+  },
+  {
+   "coll": "HLSP",
+   "prov": "T16",
+   "sector": 5,
+   "exp": 1800.0,
+   "obsid": "351209767"
+  },
+  {
+   "coll": "HLSP",
+   "prov": "TARS",
+   "sector": 5,
+   "exp": 1800.0,
+   "obsid": "394116083"
+  },
+  {
+   "coll": "HLSP",
+   "prov": "TASOC",
+   "sector": 5,
+   "exp": 1800.0,
+   "obsid": "90045055"
+  },
+  {
+   "coll": "HLSP",
+   "prov": "TESS-SPOC",
+   "sector": 5,
+   "exp": 1800.0,
+   "obsid": "60396608"
+  },
+  {
+   "coll": "HLSP",
+   "prov": "TGLC",
+   "sector": 5,
+   "exp": 1800.0,
+   "obsid": "153189925"
+  },
+  {
+   "coll": "HLSP",
+   "prov": "QLP",
+   "sector": 31,
+   "exp": 600.0,
+   "obsid": "66659913"
+  },
+  {
+   "coll": "HLSP",
+   "prov": "TARS",
+   "sector": 31,
+   "exp": 600.0,
+   "obsid": "411264692"
+  },
+  {
+   "coll": "HLSP",
+   "prov": "TESS-SPOC",
+   "sector": 31,
+   "exp": 600.0,
+   "obsid": "61502450"
+  },
+  {
+   "coll": "HLSP",
+   "prov": "QLP",
+   "sector": 32,
+   "exp": 600.0,
+   "obsid": "67172483"
+  },
+  {
+   "coll": "HLSP",
+   "prov": "TARS",
+   "sector": 32,
+   "exp": 600.0,
+   "obsid": "411784011"
+  },
+  {
+   "coll": "HLSP",
+   "prov": "TESS-SPOC",
+   "sector": 32,
+   "exp": 600.0,
+   "obsid": "61264077"
+  },
+  {
+   "coll": "HLSP",
+   "prov": "QLP",
+   "sector": 97,
+   "exp": 200.0,
+   "obsid": "362030010"
+  },
+  {
+   "coll": "HLSP",
+   "prov": "QLP",
+   "sector": 98,
+   "exp": 200.0,
+   "obsid": "377611855"
+  }
+ ]
+}

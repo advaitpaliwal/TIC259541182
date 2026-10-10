@@ -1,0 +1,179 @@
+{
+  "tic": 259541182,
+  "P": 1.0044671112485513,
+  "T0": 1411.2244266972186,
+  "duration_days": 0.03488785854398268,
+  "baseline_days": 0.5,
+  "available": [
+    "spoc_4",
+    "qlp_4",
+    "spoc_5",
+    "qlp_5",
+    "spoc_31",
+    "qlp_31",
+    "spoc_32",
+    "qlp_32",
+    "qlp_97",
+    "qlp_98"
+  ],
+  "missing": [
+    {
+      "product": "spoc",
+      "sector": 97,
+      "error": "[Errno 2] No such file or directory: 'work/hunt7/lc/259541182/spoc_s97.fits'"
+    },
+    {
+      "product": "spoc",
+      "sector": 98,
+      "error": "[Errno 2] No such file or directory: 'work/hunt7/lc/259541182/spoc_s98.fits'"
+    }
+  ],
+  "combined": {
+    "qlp": {
+      "raw": {
+        "depth_ppm": 593.2765636297668,
+        "err_ppm": 56.360820779190945,
+        "events": 121
+      },
+      "corrected": {
+        "depth_ppm": 567.9134287760594,
+        "err_ppm": 55.91159738143157,
+        "events": 121
+      }
+    },
+    "spoc": {
+      "raw": {
+        "depth_ppm": 642.7436361414641,
+        "err_ppm": 78.48907159601868,
+        "events": 63
+      },
+      "corrected": {
+        "depth_ppm": 661.2098696678701,
+        "err_ppm": 76.1961187062913,
+        "events": 63
+      }
+    }
+  },
+  "per_sector": {
+    "qlp_4": {
+      "raw": {
+        "depth_ppm": 154.49993954084306,
+        "err_ppm": 240.93126206497354,
+        "events": 5
+      },
+      "corrected": {
+        "depth_ppm": 173.3936270934081,
+        "err_ppm": 241.29091154551463,
+        "events": 5
+      }
+    },
+    "qlp_5": {
+      "raw": {
+        "depth_ppm": 636.1093713868681,
+        "err_ppm": 349.97975531524946,
+        "events": 3
+      },
+      "corrected": {
+        "depth_ppm": 643.7639751724585,
+        "err_ppm": 349.0421707048851,
+        "events": 3
+      }
+    },
+    "qlp_31": {
+      "raw": {
+        "depth_ppm": 345.9820544614521,
+        "err_ppm": 138.06185104631967,
+        "events": 22
+      },
+      "corrected": {
+        "depth_ppm": 349.8648358030095,
+        "err_ppm": 138.10633330630534,
+        "events": 22
+      }
+    },
+    "qlp_32": {
+      "raw": {
+        "depth_ppm": 846.5875936121306,
+        "err_ppm": 145.21382775383725,
+        "events": 24
+      },
+      "corrected": {
+        "depth_ppm": 750.814634505158,
+        "err_ppm": 144.56482104893144,
+        "events": 24
+      }
+    },
+    "qlp_97": {
+      "raw": {
+        "depth_ppm": 676.7884879362804,
+        "err_ppm": 102.3010330224467,
+        "events": 34
+      },
+      "corrected": {
+        "depth_ppm": 658.2604298431286,
+        "err_ppm": 101.73875558585709,
+        "events": 34
+      }
+    },
+    "qlp_98": {
+      "raw": {
+        "depth_ppm": 595.3047810076058,
+        "err_ppm": 103.15369161057885,
+        "events": 33
+      },
+      "corrected": {
+        "depth_ppm": 568.9944071378968,
+        "err_ppm": 101.21516971526108,
+        "events": 33
+      }
+    },
+    "spoc_4": {
+      "raw": {
+        "depth_ppm": 325.66597345150734,
+        "err_ppm": 200.2127297926788,
+        "events": 8
+      },
+      "corrected": {
+        "depth_ppm": 451.8033271047998,
+        "err_ppm": 186.24933432386638,
+        "events": 8
+      }
+    },
+    "spoc_5": {
+      "raw": {
+        "depth_ppm": 756.5254348039631,
+        "err_ppm": 192.99903994619004,
+        "events": 8
+      },
+      "corrected": {
+        "depth_ppm": 656.7414510183501,
+        "err_ppm": 185.17054609985829,
+        "events": 8
+      }
+    },
+    "spoc_31": {
+      "raw": {
+        "depth_ppm": 503.1700245299283,
+        "err_ppm": 141.07918094244715,
+        "events": 22
+      },
+      "corrected": {
+        "depth_ppm": 511.691194063398,
+        "err_ppm": 138.4659267445741,
+        "events": 22
+      }
+    },
+    "spoc_32": {
+      "raw": {
+        "depth_ppm": 839.6016518268365,
+        "err_ppm": 128.7915522665856,
+        "events": 25
+      },
+      "corrected": {
+        "depth_ppm": 886.1314351012911,
+        "err_ppm": 126.90745938928531,
+        "events": 25
+      }
+    }
+  }
+}
